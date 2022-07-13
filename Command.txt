@@ -1,0 +1,1 @@
+java -cp .\saxon-he-10.3.jar net.sf.saxon.Transform -t -s:.\invoice.xml  -xsl:.\ExcelCreator.xsl -o:.\sheet1.xml
