@@ -1,8 +1,4 @@
 # Projekt 4: invoice_project_cmp_excel
-STATIC HTML can be found under github-pages - no cloud deployment.
-
-
-
 A4: Rechnungserstellung (ExcelKatalog) über Webanwendung mit XSLT und Office-XML
 
 Startpunkt: Angepasstes Web-Formular
