@@ -1,4 +1,20 @@
 # Projekt 4: invoice_project_cmp_excel
+STATIC HTML can be found under github-pages - no cloud deployment.
+
+
+
+A4: Rechnungserstellung (ExcelKatalog) über Webanwendung mit XSLT und Office-XML
+
+Startpunkt: Angepasstes Web-Formular
+
+Ziel: XML-Verarbeitung zu XLSX mittels
+Transformation und Archivierung
+
+Used: VanillaJS/HTML - NodeJS backend, semanticUI-css-framework
+
+
+
+
 Anmerkung:
 Hauptbestandteile sind 
 * Backend-Folder (hat eine eigene Readme)
