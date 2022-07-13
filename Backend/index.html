@@ -790,7 +790,7 @@
         var link = document.createElement('a');
         link.href = downloadURL;
 
-        link.download = "invoicecatalogue" + new Date().toISOString().replace(/\s+/g, ''); + ".xlsx";
+        link.download = "invoicecatalogue" + new Date().toISOString().slice((0,-5)+"Z").replace(/\.\d+/g, ''); + ".xlsx";
         link.click();
       };
 
